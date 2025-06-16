@@ -1,20 +1,23 @@
 <p align="center">
-  <hr style="width: 90%; border: 1px solid #555;">
+  <hr style="width: 90%; border: 2px solid #222; background-color: #111;">
+</p>
+
+<p align="center" style="color: #e63946; font-weight: 900; font-size: 2em; letter-spacing: 2px;">
+  CharismaCommand
+</p>
+
+<p align="center" style="font-style: italic; font-size: 1.2em; color: #f1faee;">
+  Dominate every room. Command every conversation.
 </p>
 
 <p align="center">
-  <strong style="font-size: 1.6em;">ExecutiveThorne</strong><br>
-  <em>ExecutiveThorne is an elite force in business mastery.</em>
+  <hr style="width: 90%; border: 2px solid #222; background-color: #111;">
+</p>
+
+<p align="center" style="font-weight: 700; font-size: 1.4em; color: #a8dadc; letter-spacing: 1.5px;">
+  Power. Presence. Persuasion.
 </p>
 
 <p align="center">
-  <hr style="width: 90%; border: 1px solid #555;">
-</p>
-
-<p align="center">
-  <strong>Power. Precision. Purpose.</strong>
-</p>
-
-<p align="center">
-  <hr style="width: 90%; border: 1px solid #555;">
+  <hr style="width: 90%; border: 2px solid #222; background-color: #111;">
 </p>

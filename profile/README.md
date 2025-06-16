@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="font-style: italic; font-size: 1.2em; color: #f1faee;">
-  Dominate every room. Command every conversation.
+  <em>Dominate every room. Command every conversation.</em>
 </p>
 
 <p align="center">

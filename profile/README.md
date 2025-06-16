@@ -1,3 +1,4 @@
+---
 <p align="center">
   <strong style="font-size: 1.6em;">ExecutiveThorne</strong><br>
   <em>ExecutiveThorne is an elite force in business mastery.</em>
@@ -10,3 +11,4 @@
 <p align="center">
   <strong>Power. Precision. Purpose.</strong>
 </p>
+---
